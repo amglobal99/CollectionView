@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  CollectionView
 //
-//  Created by Dad on 8/4/16.
-//  Copyright © 2016 Natsys. All rights reserved.
-//
 
 import UIKit
 
